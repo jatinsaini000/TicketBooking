@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": "12345",
+    "name": "Jatin",
+    "hashedPassword" : "abc12345",
+    "tickets_booked": [
+      {
+        "source": "Banglore",
+        "destination": "delhi",
+        "date_of_travel": "2023-12-08T18"
+      }
+    ]
+  },
+  {},
+
+]
